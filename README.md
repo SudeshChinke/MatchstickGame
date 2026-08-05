@@ -24,7 +24,7 @@ A simple web-based Matchstick Game built using **HTML, CSS, JavaScript, and Tail
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SudeshChinke/Project-37.git
+   git clone https://github.com/SudeshChinke/MatchstickGame.git
    ```
 
 2. Open the `game.html` file in your web browser.
